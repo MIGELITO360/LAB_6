@@ -1,4 +1,6 @@
 
 a = tuple(("Data", "Analysis", 50, ("10","20", "30")))
 
-print(a)
+b = a[3]
+
+print(b)
